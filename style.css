@@ -1,0 +1,70 @@
+.bb{
+    background-color: black;
+}
+
+.h-logo{
+    height: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.h-c-logo{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.arrow{
+    height: 15px;
+}
+
+.returnal{
+    background-image: url(img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+}
+
+.bot-r{
+    border-radius: 50px;
+    padding: 8px;
+}
+
+.gri-sc{
+    background-color: rgb(53, 53, 53);
+}
+
+.gri-or{
+    background-color: tomato;
+}
+
+.w{
+    color: white;
+}
+
+.m-{
+    margin-left: 30px;
+}
+
+.h-ret{
+    height: 30px;
+}
+
+.or-w{
+    width: 120px;
+}
+
+.mb-{
+    margin-bottom: 30px;
+}
+
+.game-img{
+    border-radius: 25px;
+    margin-top: 15px;
+}
+
+.container-img{
+    width: 90%;
+    margin: 0 auto;
+}
