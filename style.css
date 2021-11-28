@@ -150,3 +150,24 @@
 .h-bnr{
     height: 300px;
 }
+
+.play-logow{
+    fill: white;
+    width: 140px;
+}
+
+.language{
+    width: 20px;
+}
+
+.oldlogo{
+    width: 200px;
+}
+
+.footer-list li{
+    color: white;
+}
+
+.footer-list ul{
+    list-style-type: none;
+}
