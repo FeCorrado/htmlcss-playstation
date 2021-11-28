@@ -26,6 +26,7 @@
     background-position: center;
 }
 
+
 .bot-r{
     border-radius: 50px;
     padding: 8px;
@@ -43,8 +44,20 @@
     color: rgb(53, 53, 53);
 }
 
+.gri-ch{
+    background-color: rgb(190, 190, 190);
+}
+
 .bc{
     color: blue;
+}
+
+.bg{
+    background-color: rgb(156, 156, 156);
+}
+
+.bgbs{
+    background-color: darkblue;
 }
 
 .blu-sc{
@@ -63,6 +76,10 @@
     margin-top: 50px;
 }
 
+.mt-{
+    margin-top: 20px;
+}
+
 .h-ret{
     height: 30px;
 }
@@ -74,6 +91,9 @@
 .mb-{
     margin-bottom: 30px;
 }
+
+
+
 
 .acc-w{
     width: 175px;
@@ -89,6 +109,11 @@
     margin: 0 auto;
 }
 
+.container-img2{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .takestwo{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
@@ -99,4 +124,29 @@
 
 .wi-100{
     width: 100%;
+}
+
+.he-xc{
+    height: 80%;
+}
+
+.w-ora{
+    width: 200px;
+}
+
+.he-100{
+    height: 100%;
+}
+
+.accrs img{
+    width: 129px;
+    height: 130px;
+}
+
+.wp-img{
+    width: 70%;
+}
+
+.h-bnr{
+    height: 300px;
 }
